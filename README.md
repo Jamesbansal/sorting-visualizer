@@ -1,4 +1,4 @@
-This project is meant to be a tutorial for Clement Mihailescu's [Sorting Visualizer project]
+Built this project as a part of Clement's Tutorial
 
 ![Unsorted](Sorting1.png)
 
